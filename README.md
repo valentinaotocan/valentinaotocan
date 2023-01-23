@@ -1,8 +1,9 @@
 <p align="center">
-  <img width="350" height="350" src="https://user-images.githubusercontent.com/81707177/214109635-b87cfa8e-cca7-4452-bec0-91063d39770e.png">
+  <img width="350" height="350" src="https://user-images.githubusercontent.com/81707177/214134032-d5132895-c665-4d7e-9f3a-5bbb078f40d8.png" />
+
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1DBF2&background=FFC6BC00&width=150&lines=Welcome+%F0%9F%A4%97" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8B63&width=150&lines=Welcome+%F0%9F%A4%97" alt="Typing SVG" /></a>
 </p>
 <hr />
 
