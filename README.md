@@ -7,7 +7,7 @@
 </p>
 <hr />
 
-Hi! I'm Valentina, I like frontend developer and I'm trying to become better every day. I like developing in React and Next.
+Hi! I'm Valentina, I like frontend development and I'm trying to become better every day. I like developing in React and Next.
 <br />
 <br />
 My Skills: <br />
