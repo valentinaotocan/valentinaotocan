@@ -11,7 +11,10 @@ Hello! I'm Valentina, a dedicated frontend developer on a journey to continuousl
 <br />
 <br />
 My Skills: <br />
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,nuxt,react,next,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,nuxt,react,next,)](https://skillicons.dev) 
+<br />
+<br />
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinaotocan&layout=compact&theme=white-black)
 
 
 
