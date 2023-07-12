@@ -7,7 +7,7 @@
 </p>
 <hr />
 
-Hi! I'm Valentina, I like frontend development and I'm trying to become better every day. I like developing in React and Next.
+Hello! I'm Valentina, a dedicated frontend developer on a journey to continuously improve my skills. My passion lies in creating captivating user experiences through web development. With a focus on React and Next.js, I strive to master these powerful tools for building modern, interactive web applications.
 <br />
 <br />
 My Skills: <br />
