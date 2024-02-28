@@ -6,14 +6,14 @@
 </p>
 <hr />
 
-<h3>About me:</h3>
+### About me:
 Hello! I'm Valentina, a dedicated frontend developer on a journey to continuously improve my skills. My passion lies in creating captivating user experiences through web development. With a focus on React and Next.js, I strive to master these powerful tools for building modern, interactive web applications.
 <br />
 
-<h3>Technologies:</h3>
+### Technologies and tools:
 [![My Skills](https://skillicons.dev/icons?i=react,next,redux,js,typescript,sass,nuxt)](https://skillicons.dev) 
 <br />
-<h3>Stats:</h3>
+### GitHub Stats:
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinaotocan&layout=compact&theme=white-black)
 
 <!--
