@@ -16,6 +16,7 @@ Hello! I'm Valentina, a dedicated frontend developer on a journey to continuousl
 ### GitHub Stats:
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinaotocan&layout=compact&theme=white-black)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=FC8A62&height=80&section=footer&reversal=false)
 <!--
 **valentinaotocan/valentinaotocan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
