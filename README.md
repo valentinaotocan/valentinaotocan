@@ -1,19 +1,19 @@
 <p align="center">
   <img width="350" height="350" src="https://user-images.githubusercontent.com/81707177/214134032-d5132895-c665-4d7e-9f3a-5bbb078f40d8.png" />
-
 </p>
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8B63&width=150&lines=Welcome+%F0%9F%A4%97" alt="Typing SVG" /></a>
 </p>
 <hr />
 
+<h3>About me:</h3>
 Hello! I'm Valentina, a dedicated frontend developer on a journey to continuously improve my skills. My passion lies in creating captivating user experiences through web development. With a focus on React and Next.js, I strive to master these powerful tools for building modern, interactive web applications.
 <br />
+
+<h3>Technologies:</h3>
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux,js,typescript,sass,nuxt)](https://skillicons.dev) 
 <br />
-My Skills: <br />
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,nuxt,react,next,)](https://skillicons.dev) 
-<br />
-<br />
+<h3>Stats:</h3>
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinaotocan&layout=compact&theme=white-black)
 
 <!--
