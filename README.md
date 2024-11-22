@@ -7,9 +7,13 @@
 <hr />
 
 ### About me:
-Hello! I'm Valentina. <br>
-<br />
-Programming is my passion — like a game of Tetris, where I piece everything together, spark my creativity, and love every moment of the process. The best part? I get to do what I love and call it work.
+Hello! I'm <b>Valentina.</b> :wave:
+
+Programming is my <b>passion</b> — like a game of Tetris, where I piece everything together, spark my creativity, and love every moment of the process. The best part? <b><i>I get to do what I love and call it work.</i> -`♡´- </b>
+
+Through my work, I develop solutions that are functional and user-friendly. I specialize in modern frontend technologies such as React.js and Next.js.
+
+I enjoy <b>learning, collaborating, and exploring.</b> 💫
 
 ### Technologies and tools:
 [![My Skills](https://skillicons.dev/icons?i=react,next,redux,js,typescript,sass,nuxt)](https://skillicons.dev) 
