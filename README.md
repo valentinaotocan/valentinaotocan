@@ -7,8 +7,9 @@
 <hr />
 
 ### About me:
-Hello! I'm Valentina, a dedicated frontend developer on a journey to continuously improve my skills. My passion lies in creating captivating user experiences through web development. With a focus on React and Next.js, I strive to master these powerful tools for building modern, interactive web applications.
+Hello! I'm Valentina. <br>
 <br />
+Programming is my passion — like a game of Tetris, where I piece everything together, spark my creativity, and love every moment of the process. The best part? I get to do what I love and call it work.
 
 ### Technologies and tools:
 [![My Skills](https://skillicons.dev/icons?i=react,next,redux,js,typescript,sass,nuxt)](https://skillicons.dev) 
