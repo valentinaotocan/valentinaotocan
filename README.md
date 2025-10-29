@@ -13,10 +13,13 @@ Programming is my <b><i>passion</i></b> — like a game of Tetris, where I piece
 
 Through my work, I develop solutions that are functional and user-friendly. I specialize in modern frontend technologies such as <b><i>React.js and Next.js.</i></b>
 
+Recently, I’ve also dived into the world of <b><i>Quality Assurance (QA)</i></b> — exploring manual and automated testing, writing test cases, and ensuring that every product I touch meets the highest quality standards.
+
 I enjoy <b><i>learning, collaborating, and exploring.</i></b> 💫
 
 ### Technologies and tools:
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux,js,typescript,sass,nuxt)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux,js,typescript,sass,nuxt,postman)](https://skillicons.dev) 
+<img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright logo" />
 <br />
 ### GitHub Stats:
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinaotocan&layout=compact&theme=white-black)
